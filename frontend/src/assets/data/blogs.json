@@ -1,0 +1,97 @@
+[
+    {
+      "id": "01",
+      "title": "Westminster Bridge - A Must-See Landmark in London",
+      "content": "Discover the beauty of Westminster Bridge in London, offering breathtaking views of iconic landmarks such as the Big Ben and the Houses of Parliament...",
+      "author": "TravelEnthusiast",
+      "date": "2023-07-29",
+      "photo": "https://images.unsplash.com/photo-1555088468-890109c57b6e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=1080",
+      "comments": [
+        {
+          "name": "John Doe",
+          "comment": "Nice Information"
+        },
+        {
+          "name": "Jane Smith",
+          "comment": "Great blog post!"
+        }
+      ],
+      "featured": false
+    },
+    {
+      "id": "02",
+      "title": "Bali, Indonesia - A Tropical Paradise",
+      "content": "Immerse yourself in the serene beauty of Bali, with its stunning beaches, lush rice terraces, and vibrant culture...",
+      "author": "WanderlustJourney",
+      "date": "2023-07-28",
+      "photo": "https://images.unsplash.com/photo-1518152006812-edab29b069ac?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=1080",
+      "comments": [],
+      "featured": false
+    },
+    {
+      "id": "03",
+      "title": "Snowy Mountains, Thailand - A Winter Wonderland",
+      "content": "Experience the magic of the Snowy Mountains in Thailand, where you can enjoy snowy landscapes and thrilling winter activities...",
+      "author": "SnowSeeker",
+      "date": "2023-07-27",
+      "photo": "https://images.unsplash.com/photo-1573482967390-46e140e17bbb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=1080",
+      "comments": [
+        {
+          "username": "Alice Johnson",
+          "comment": "I loved skiing there!"
+        }
+      ],
+      "featured": false
+    },
+    {
+      "id": "04",
+      "title": "Beautiful Sunrise, Thailand - A Magical Morning Experience",
+      "content": "Witness the captivating beauty of a sunrise in Thailand, where the sky lights up with vibrant hues of orange and pink...",
+      "author": "SunriseAdventurer",
+      "date": "2023-07-26",
+      "photo": "https://images.unsplash.com/photo-1600634196748-76310c43c302?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=1080",
+      "comments": [],
+      "featured": false
+    },
+    {
+      "id": "05",
+      "title": "Nusa Penida Bali, Indonesia - Hidden Gem of the Archipelago",
+      "content": "Embark on an unforgettable journey to Nusa Penida, a hidden gem located off the coast of Bali, Indonesia...",
+      "author": "IslandExplorer",
+      "date": "2023-07-25",
+      "photo": "https://images.unsplash.com/photo-1566150903447-94ea15b7d25d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=1080",
+      "comments": [
+        {
+          "username": "Robert Smith",
+          "comment": "The beaches are stunning!"
+        }
+      ],
+      "featured": true
+    },
+    {
+      "id": "06",
+      "title": "Cherry Blossoms Spring - A Delightful Experience in Japan",
+      "content": "Embark on a journey to Japan during the enchanting cherry blossom season, known as Hanami...",
+      "author": "SakuraLover",
+      "date": "2023-07-24",
+      "photo": "https://images.unsplash.com/photo-1558327029-4692d0c6a72e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=1080",
+      "comments": [
+        {
+          "username": "Michael Johnson",
+          "comment": "I wish to visit Japan during Hanami!"
+        }
+      ],
+      "featured": true
+    },
+    {
+      "id": "07",
+      "title": "Holmen Lofoten, France - A Picturesque Coastal Retreat",
+      "content": "Escape to the picturesque Holmen Lofoten in France, a coastal paradise that offers breathtaking views of the sea and majestic cliffs...",
+      "author": "CoastalDreamer",
+      "date": "2023-07-23",
+      "photo": "https://images.unsplash.com/photo-1559485883-317706e8ecbd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=1080",
+      "comments": [],
+      "featured": true
+    }
+  ]
+  

@@ -1,0 +1,115 @@
+[{
+  "_id": {
+    "$oid": "67401d2bd6bc9699a288232d"
+  },
+  "id": "01",
+  "title": "Westminster Bridge - A Must-See Landmark in London",
+  "content": "Discover the beauty of Westminster Bridge in London, offering breathtaking views of iconic landmarks such as the Big Ben and the Houses of Parliament...",
+  "author": "TravelEnthusiast",
+  "date": "2024-10-29",
+  "photo": "https://www.natezeman.com/images/xl/0677_NZ_Westminster_Bridge_WM.jpg",
+  "comments": [
+    {
+      "name": "John Doe",
+      "comment": "Nice Information"
+    },
+    {
+      "name": "Jane Smith",
+      "comment": "Great blog post!"
+    }
+  ],
+  "featured": false
+},
+{
+  "_id": {
+    "$oid": "67401d2bd6bc9699a288232e"
+  },
+  "id": "02",
+  "title": "Bali, Indonesia - A Tropical Paradise",
+  "content": "Immerse yourself in the serene beauty of Bali, with its stunning beaches, lush rice terraces, and vibrant culture...",
+  "author": "WanderlustJourney",
+  "date": "2024-10-28",
+  "photo": "https://handluggageonly.co.uk/wp-content/uploads/2015/08/IMG_1123.jpg",
+  "comments": [],
+  "featured": false
+},
+{
+  "_id": {
+    "$oid": "67401d2bd6bc9699a288232f"
+  },
+  "id": "03",
+  "title": "Snowy Mountains, Thailand - A Winter Wonderland",
+  "content": "Experience the magic of the Snowy Mountains in Thailand, where you can enjoy snowy landscapes and thrilling winter activities...",
+  "author": "SnowSeeker",
+  "date": "2024-10-25",
+  "photo": "https://i.pinimg.com/736x/54/c9/42/54c94204a23089a15c6ad22b60a9fad7.jpg",
+  "comments": [
+    {
+      "username": "Alice Johnson",
+      "comment": "I loved skiing there!"
+    }
+  ],
+  "featured": false
+},
+{
+  "_id": {
+    "$oid": "67401d2bd6bc9699a2882330"
+  },
+  "id": "04",
+  "title": "Beautiful Sunrise, Thailand - A Magical Morning Experience",
+  "content": "Witness the captivating beauty of a sunrise in Thailand, where the sky lights up with vibrant hues of orange and pink...",
+  "author": "SunriseAdventurer",
+  "date": "2024-10-20",
+  "photo": "https://image.freepik.com/free-photo/landscape-nature-beautiful-sunrise-top-thailand-mountain_34263-95.jpg",
+  "comments": [],
+  "featured": false
+},
+{
+  "_id": {
+    "$oid": "67401d2bd6bc9699a2882331"
+  },
+  "id": "05",
+  "title": "Nusa Penida Bali, Indonesia - Hidden Gem of the Archipelago",
+  "content": "Embark on an unforgettable journey to Nusa Penida, a hidden gem located off the coast of Bali, Indonesia...",
+  "author": "IslandExplorer",
+  "date": "2024-10-15",
+  "photo": "https://img.freepik.com/premium-photo/kelingking-beach-sunset-nusa-penida-island-bali-indonesia_252027-57.jpg?w=2000",
+  "comments": [
+    {
+      "username": "Robert Smith",
+      "comment": "The beaches are stunning!"
+    }
+  ],
+  "featured": true
+},
+{
+  "_id": {
+    "$oid": "67401d2bd6bc9699a2882332"
+  },
+  "id": "06",
+  "title": "Cherry Blossoms Spring - A Delightful Experience in Japan",
+  "content": "Embark on a journey to Japan during the enchanting cherry blossom season, known as Hanami...",
+  "author": "SakuraLover",
+  "date": "2024-10-18",
+  "photo": "https://wallpaperaccess.com/full/301014.jpg",
+  "comments": [
+    {
+      "username": "Michael Johnson",
+      "comment": "I wish to visit Japan during Hanami!"
+    }
+  ],
+  "featured": true
+},
+{
+  "_id": {
+    "$oid": "67401d2bd6bc9699a2882333"
+  },
+  "id": "07",
+  "title": "Holmen Lofoten, France - A Picturesque Coastal Retreat",
+  "content": "Escape to the picturesque Holmen Lofoten in France, a coastal paradise that offers breathtaking views of the sea and majestic cliffs...",
+  "author": "CoastalDreamer",
+  "date": "2024-10-21",
+  "photo": "https://media-cdn.tripadvisor.com/media/photo-s/16/1e/22/47/holmen-lofoten.jpg",
+  "comments": [],
+  "featured": true
+}]

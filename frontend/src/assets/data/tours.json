@@ -1,0 +1,127 @@
+[
+  {
+    "title": "Westminister Bridge",
+    "city": "London",
+    "address": "Somewhere in London",
+    "distance": 300,
+    "price": 99,
+    "maxGroupSize": 10,
+    "desc": "this is the description",
+    "reviews": [],
+    "photo": "https://www.natezeman.com/images/xl/0677_NZ_Westminster_Bridge_WM.jpg",
+    "featured": true
+  },
+  {
+    "title": "Bali, Indonesia",
+    "city": "Bali",
+    "address": "Somewhere in Indonesia",
+    "distance": 400,
+    "price": 99,
+    "maxGroupSize": 8,
+    "desc": "this is the description",
+    "reviews": [],
+    "photo": "https://handluggageonly.co.uk/wp-content/uploads/2015/08/IMG_1123.jpg",
+    "featured": true
+  },
+  {
+    "title": "Snowy Mountains, Thailand",
+    "city": "Bangkok",
+    "address": "Somewhere in Thailand",
+    "distance": 500,
+    "price": 99,
+    "maxGroupSize": 8,
+    "desc": "this is the description",
+    "reviews": [],
+    "photo": "https://i.pinimg.com/736x/54/c9/42/54c94204a23089a15c6ad22b60a9fad7.jpg",
+    "featured": true
+  },
+  {
+    
+    "title": "Beautiful Sunrise, Thailand",
+    "city": "Phuket",
+    "address": "Somewhere in Thailand",
+    "distance": 500,
+    "price": 99,
+    "maxGroupSize": 8,
+    "desc": "this is the description",
+    "reviews": [],
+    "photo": "https://image.freepik.com/free-photo/landscape-nature-beautiful-sunrise-top-thailand-mountain_34263-95.jpg",
+    "featured": true
+  },
+  {
+   
+    "title": "Nusa Pendia Bali, Indonesia",
+    "city": "Bali",
+    "address": "Somewhere in Indonesia",
+    "distance": 500,
+    "price": 99,
+    "maxGroupSize": 8,
+    "desc": "this is the description",
+    "reviews": [],
+    "photo": "https://img.freepik.com/premium-photo/kelingking-beach-sunset-nusa-penida-island-bali-indonesia_252027-57.jpg?w=2000",
+    "featured": true
+  },
+  {
+    
+    "title": "Cherry Blossoms Spring",
+    "city": "Tokyo",
+    "address": "Somewhere in Japan",
+    "distance": 500,
+    "price": 99,
+    "maxGroupSize": 8,
+    "desc": "this is the description",
+    "reviews": [],
+    "photo": "https://wallpaperaccess.com/full/301014.jpg",
+    "featured": true
+  },
+  {
+    "title": "Holmen Lofoten, France",
+    "city": "Paris",
+    "address": "Somewhere in France",
+    "distance": 500,
+    "price": 99,
+    "maxGroupSize": 8,
+    "desc": "this is the description",
+    "reviews": [],
+    "photo": "https://media-cdn.tripadvisor.com/media/photo-s/16/1e/22/47/holmen-lofoten.jpg",
+    "featured": true
+  },
+  {
+    
+    "title": "Beautiful Snowy Mountains, Thailand",
+    "city": "Bangkok",
+    "address": "Somewhere in Thailand",
+    "distance": 500,
+    "price": 99,
+    "maxGroupSize": 8,
+    "desc": "this is the description",
+    "reviews": [],
+    "photo": "https://whatsonsukhumvit.com/wp-content/uploads/2016/05/thailand-mountain-chiang-dao.jpg",
+    "featured": true
+  },
+  {
+    "title": "Jaflong, Sylhet",
+    "city": "Sylhet",
+    "address": "Somewhere in Sylhet",
+    "distance": 100,
+    "price": 99,
+    "maxGroupSize": 5,
+    "desc": "this is the description",
+    "reviews": [],
+    "photo": "https://tse2.mm.bing.net/th?id=OIP.WSvuAhuC81yq8qmGuZkbeQHaEK&pid=Api&P=0&h=180",
+    "featured": false
+  },
+  {
+    
+    "title": "Cox's Bazar Sea Beach",
+    "city": "Chittagong",
+    "address": "Somewhere in Chittagong",
+    "distance": 500,
+    "price": 99,
+    "maxGroupSize": 8,
+    "desc": "this is the description",
+    "reviews": [],
+    "photo": "https://3.bp.blogspot.com/-37iK_DjaKlU/WeSdG11T4eI/AAAAAAAAGM4/mQGUBkvc_j8UOZYMkKNad7pyglPdfUFVgCLcBGAs/s1600/coxs-bazar-web-min.jpg",
+    "featured": false
+  }
+]
